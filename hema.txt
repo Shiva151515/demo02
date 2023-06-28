@@ -1,0 +1,24 @@
+ Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure, resizable compute capacity in the cloud.
+
+✔ Access reliable, scalable infrastructure on demand. Scale capacity within minutes with SLA commitment of 99.99% availability.
+✔ Provide secure compute for your applications. Security is built into the foundation of Amazon EC2 with the AWS Nitro System.
+✔ Optimize performance and cost with flexible options like AWS Graviton-based instances, Amazon EC2 Spot instances, and AWS Savings Plans.
+Use Cases
+Run Cloud-Native and Enterprise Applications
+Deliver secure, reliable, high-performance, and cost-effective compute infrastructure to meet demanding business needs.
+Scale for HPC Applications
+Access the on-demand infrastructure and capacity you need to run HPC applications faster and cost-effectively.
+
+Develop for Apple Platforms
+Build, test, and sign on-demand macOS workloads. Access environments in minutes, dynamically scale capacity as needed, and benefit from AWS’s pay-as-you-go pricing.
+
+Train and Deploy ML Applications
+Deliver the broadest choice of compute, networking (up to 400 Gbps), and storage services purpose-built to optimize price performance for ML projects.
+Amazon EC2 on the Free Tier
+12 MONTHS FREE
+AWS helps new customers get started for free. Each calendar month, the Amazon EC2 Free Tier allows you to use:
+
+750 hours per month of Linux, RHEL, SLES or Windows t2.micro or t3.micro instance dependent on region
+Create a Free Account »
+
+Learn More About Pricing »
