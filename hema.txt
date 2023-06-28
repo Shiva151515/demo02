@@ -4,7 +4,7 @@
 ✔ Provide secure compute for your applications. Security is built into the foundation of Amazon EC2 with the AWS Nitro System.
 ✔ Optimize performance and cost with flexible options like AWS Graviton-based instances, Amazon EC2 Spot instances, and AWS Savings Plans.
 Use Cases
-Run Cloud-Native and Enterprise Applications
+Run Cloud-Native and Enterprise Applications i am raju
 Deliver secure, reliable, high-performance, and cost-effective compute infrastructure to meet demanding business needs.
 Scale for HPC Applications
 Access the on-demand infrastructure and capacity you need to run HPC applications faster and cost-effectively.
